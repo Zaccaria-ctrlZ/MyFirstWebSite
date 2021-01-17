@@ -1,0 +1,23 @@
+body{
+    background:burlywood;
+}
+
+#title{
+    color:crimson; 
+}
+
+h3{
+    color:crimson;   
+}
+
+h4{
+    color:crimson;
+}
+
+li:nth-child(2){
+    color:orangered;
+}
+
+a:hover{
+    color:red;
+}
